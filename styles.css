@@ -1,0 +1,37 @@
+.forms
+{
+    border: 1px solid black;
+    background-color:aquamarine;
+    position: relative;
+    left:340px;
+    top:137px;
+    height:400px;
+    width:500px;
+    padding:20px;
+}
+::placeholder
+{
+    color:brown;
+}
+input{
+    background-color:white;
+}
+h1
+{
+    font-size:50px;
+    position: absolute;
+    left: 400px;
+    background-color:bisque;
+    color:red;
+}
+body
+{
+    background-image: linear-gradient(rgb(189, 251, 251),rgb(248, 195, 96),rgb(163, 219, 163),rgb(230, 230, 108));
+}
+td
+{
+    font-size: 25px;
+    color:black;
+    font-weight:1000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
